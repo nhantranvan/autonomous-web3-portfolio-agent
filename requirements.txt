@@ -1,0 +1,4 @@
+web3
+langchain
+python-dotenv
+pandas
